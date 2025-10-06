@@ -12,6 +12,3 @@ How to run
 
    npm run dev
 
-Python GUI
-
-The original Python PyQt6/matplotlib GUI lives in the `APP` folder in this workspace. To run it, install Python dependencies listed in `requirements.txt` and run the `run.py` script inside `APP`.
